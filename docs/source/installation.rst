@@ -114,7 +114,7 @@ osmocom
 ------------
 
 #. Download `Osmocom`_
-#. Extract zip to virtual environment path, for example C:\Users\murat\miniforge3\envs\UHTE
+#. Extract zip to virtual environment path, for example C:\\Users\\murat\\miniforge3\\envs\\UHTE
 
 .. _osmocom: https://downloads.osmocom.org/binaries/windows/rtl-sdr/rtl-sdr-64bit-20221120.zip
 

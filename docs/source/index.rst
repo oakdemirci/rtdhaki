@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to Haki Project's documentation!
 ===================================
 
 **Haki** is a bla bla project for bla bla...

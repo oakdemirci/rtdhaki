@@ -3,8 +3,8 @@ Welcome to Haki Project's documentation!
 
 **Haki** is a bla bla project for bla bla...
 
-Check out the :doc:`usage` section for further information, including
-how to :doc:`installation` the project.
+Check out the :doc:`usage` section for further project information and
+installation section how to :doc:`installation` the project.
 
 .. note::
 

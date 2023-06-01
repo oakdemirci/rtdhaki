@@ -1,6 +1,6 @@
 Proje
 =====
 
-Haki is a project createdby msever...
+Haki is a project created by msever...
 
 
